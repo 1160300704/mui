@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d3a0c76-f9b1-4583-975b-1adc28f64a5e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\workspace\apache-maven-3.6.3\m3" />
+        <option name="mavenHome" value="G:/workspace/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\workspace\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AGytto0JcaLwnmjYnCvfpzu8aI" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15163529" />
+    <property name="project.structure.side.proportion" value="0.19886364" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\IDEAspace3\mui\src\main\webapp\lib" />
+      <recent name="G:\IDEAspace3\mui\src\main\java\com\zhouhao\utils" />
+      <recent name="G:\IDEAspace3\mui\src\main\webapp" />
+      <recent name="G:\IDEAspace3\mui\src\main\java\com\zhouhao\pojo" />
+      <recent name="G:\IDEAspace3\mui\src\main\java\com\zhouhao\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.mui [tomcat7:run]">
+    <configuration name="JDBCUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhouhao.utils.JDBCUtils" />
+      <module name="mui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhouhao.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mui [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.JDBCUtils" />
+      <item itemvalue="Maven.mui [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDBCUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d3a0c76-f9b1-4583-975b-1adc28f64a5e" name="Default Changelist" comment="" />
+      <created>1654650435188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654650435188</updated>
+      <workItem from="1654650438344" duration="3867000" />
+      <workItem from="1654655322956" duration="887000" />
+      <workItem from="1654658653878" duration="13000" />
+      <workItem from="1654741715685" duration="13793000" />
+      <workItem from="1654772595752" duration="16948000" />
+      <workItem from="1654842249303" duration="2500000" />
+      <workItem from="1654844773167" duration="2107000" />
+      <workItem from="1654849593219" duration="875000" />
+      <workItem from="1654857592352" duration="13789000" />
+      <workItem from="1654913372149" duration="10945000" />
+      <workItem from="1654924639201" duration="20000" />
+      <workItem from="1654944097816" duration="51000" />
+      <workItem from="1654957050604" duration="25000" />
+      <workItem from="1655114214810" duration="48000" />
+      <workItem from="1655202739824" duration="6000" />
+      <workItem from="1657096216888" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="clazzByPage.getIndex()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
